@@ -32,7 +32,7 @@ We're always looking for passionate individuals who want to make a difference. W
 
 ## Contact
 
-- Website: [starfall.org](https://starfall-org.netlify.app)
+- Website: [starfall](https://starfall-org.netlify.app)
 - GitHub: [@starfall](https://github.com/starfall)
 
 ---

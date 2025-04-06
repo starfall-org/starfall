@@ -30,8 +30,21 @@ To transform ideas into reality through innovative technology and collaborative 
 
 We're always looking for passionate individuals who want to make a difference. Whether you're a developer, designer, or tech enthusiast, there's a place for you at Starfall.
 
-## Contact
+## Technologies We Work With
 
+- **Programming Languages**
+    <div align="center">
+    <img src="https://skillicons.dev/icons?i=python,cs,dart,java,js,ts,bash" alt="Technologies" />
+    </div>
+- **Frameworks & Libraries**
+    <div align="center">
+    <img src="https://skillicons.dev/icons?i=react,next,tailwind,flutter,nodejs,svelte,deno,selenium,flask,fastapi" alt="Technologies" />
+    </div>
+- **PaaS & IaaS**
+    <div align="center">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,firebase,vercel,netlify,cloudflare" alt="Technologies" />
+    </div>
+## Contact
 - Website: [starfall](https://starfall-org.netlify.app)
 - GitHub: [@starfall](https://github.com/starfall)
 
